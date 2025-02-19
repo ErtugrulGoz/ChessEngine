@@ -5,6 +5,7 @@ Merhabalar, train.ipynb dosyasında model eğitiliyor, predict.ipynb dosyasında
 Uyarı: train.ipynb dosyasında "LIMIT_OF_FILES = min(len(files), 16)" şeklinde bir satır var. Burada ram'iniz boyutuna göre 16'yı artırıp azaltabilirsiniz. Eğer ram'iniz yetmezse hata veriyor. O yüzden iyice hesaplayın ilk denememde ram'in kapasitesinin üstünde bir limit verdim ve 4 saat çalışıp hata verdi.
 
 ** Satranç Botuyla Nasıl Oynayabilirim? **
+
 1- predict.ipynb dosyasını açın.
 2- "board = Board()
     board"  bloğunu çalıştırın. (satranç tahtasını sıfırlar.)
