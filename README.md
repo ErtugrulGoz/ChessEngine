@@ -9,7 +9,7 @@ Uyarı: train.ipynb dosyasında "LIMIT_OF_FILES = min(len(files), 16)" şeklinde
 
 1- predict.ipynb dosyasını açın.
 
-2- "board = Board()
+2- "board = Board()\n
     board"  bloğunu çalıştırın. (satranç tahtasını sıfırlar.)
     
 3- Bu kod bloğunun altında iki adet kod bloğu var bunlar:
